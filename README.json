@@ -1,0 +1,359 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Debos",
+          "description": "Debian OS builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T14:59:04Z",
+            "owner": "go-debos",
+            "repo": "debos",
+            "stars": 724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkroot",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T09:14:21Z",
+            "owner": "landley",
+            "repo": "mkroot",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isar",
+          "description": "Integration System for Automated Root filesystem generation (Debian).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:24:32Z",
+            "owner": "ilbers",
+            "repo": "isar",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picl-k3os-image-generator",
+          "description": "Generates images for k3os compatible with various armv8/aarch64/arm64 devices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-11-06T16:01:04Z",
+            "owner": "sgielen",
+            "repo": "picl-k3os-image-generator",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBricks",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-02-04T21:55:06Z",
+            "owner": "OpenBricks",
+            "repo": "openbricks",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Build systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "runC",
+          "description": "CLI tool for spawning and running containers according to the OCI specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:19:15Z",
+            "owner": "opencontainers",
+            "repo": "runc",
+            "stars": 13399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frakti",
+          "description": "The hypervisor-based container runtime for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-12-15T16:30:13Z",
+            "owner": "kubernetes-retired",
+            "repo": "frakti",
+            "stars": 675
+          }
+        }
+      ],
+      "title": "Container runtimes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoboLinux",
+          "description": "Linux distribution redefining the entire filesystem hierarchy (no need for package database) which runs on ARM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-04-09T13:14:35Z",
+            "owner": "gobolinux",
+            "repo": "Documentation",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlowBarn OS",
+          "description": "Buildroot-based Linux distribution for Raspberry Pi focused on multi-sensor anomaly detection with real-time signal processing, WebSocket APIs, and paranormal research applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-11T04:23:16Z",
+            "owner": "bad-antics",
+            "repo": "glowbarn-os",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Traditional Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "systemd",
+          "description": "The systemd System and Service Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T04:17:54Z",
+            "owner": "systemd",
+            "repo": "systemd",
+            "stars": 16588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dumb-init",
+          "description": "A minimal init system for Linux containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T20:31:47Z",
+            "owner": "Yelp",
+            "repo": "dumb-init",
+            "stars": 7303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRC",
+          "description": "Dependency-based init system that works with the system-provided init program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T20:30:47Z",
+            "owner": "OpenRC",
+            "repo": "openrc",
+            "stars": 1888
+          }
+        }
+      ],
+      "title": "Init systems"
+    },
+    {
+      "description": "2019/2020 there existed approx. 600 IoT platforms. \"IoT\" includes domains like healthcare, industry, etc.",
+      "items": [],
+      "title": "IoT platform integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minikube",
+          "description": "minikube implements a local Kubernetes cluster (Linux).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:31:37Z",
+            "owner": "kubernetes",
+            "repo": "minikube",
+            "stars": 32027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microk8s",
+          "description": "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:10:51Z",
+            "owner": "canonical",
+            "repo": "microk8s",
+            "stars": 9349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akri",
+          "description": "Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T21:58:24Z",
+            "owner": "project-akri",
+            "repo": "akri",
+            "stars": 1256
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trainings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-edge-computing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T00:50:51Z",
+            "owner": "qijianpeng",
+            "repo": "awesome-edge-computing",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-edge-machine-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-yocto-project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-28T09:08:10Z",
+            "owner": "fkromer",
+            "repo": "awesome-yocto-project",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-edge-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-14T10:35:16Z",
+            "owner": "rcmalli",
+            "repo": "awesome-edge-ai",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ubuntu-core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-02-27T19:41:13Z",
+            "owner": "fkromer",
+            "repo": "awesome-ubuntu-core",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Edge Intelligence",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Related awesome lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:49:03.452Z",
+    "original_repository": "fkromer/awesome-embedded-linux",
+    "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
+    "enhanced_repository": "enhansome/enhansome-embedded-linux",
+    "enhanced_repository_description": null,
+    "title": "Awesome Embedded Linux with stars"
+  }
+}
