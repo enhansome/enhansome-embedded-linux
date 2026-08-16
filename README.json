@@ -160,10 +160,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T04:18:26Z",
+            "last_commit": "2026-08-16T05:15:31Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16594
+            "stars": 16602
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-02T20:30:47Z",
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1890
+            "stars": 1892
           }
         }
       ],
@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T23:33:28Z",
+            "last_commit": "2026-08-15T21:10:03Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32035
+            "stars": 32036
           }
         },
         {
@@ -227,7 +227,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:23:38Z",
+            "last_commit": "2026-08-15T10:06:39Z",
             "owner": "canonical",
             "repo": "microk8s",
             "stars": 9351
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:44:02.931Z",
+    "last_updated": "2026-08-16T05:46:19.216Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
     "enhanced_repository": "enhansome/enhansome-embedded-linux",

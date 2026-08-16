@@ -178,9 +178,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,594 | 🐛 3,357 | 🌐 C | 📅 2026-08-15 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,602 | 🐛 3,361 | 🌐 C | 📅 2026-08-16 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,303 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
-* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,890 | 🐛 214 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
+* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,892 | 🐛 214 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 * [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,035 | 🐛 539 | 🌐 Go | 📅 2026-08-14 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,351 | 🐛 168 | 🌐 Python | 📅 2026-08-14 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,036 | 🐛 539 | 🌐 Go | 📅 2026-08-15 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,351 | 🐛 166 | 🌐 Python | 📅 2026-08-15 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,256 | 🐛 85 | 🌐 Rust | 📅 2026-08-01 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
