@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,401 | 🐛 343 | 🌐 Go | 📅 2026-08-14 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,402 | 🐛 345 | 🌐 Go | 📅 2026-08-17 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -136,7 +136,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 ### Container Orchestration Distributions
 
 * [k3os](https://k3os.io/) - Linux distribution designed to remove as much OS maintenance as possible in a Kubernetes cluster. It is specifically designed to only have what is needed to run k3s.
-* [metalk8s](https://github.com/scality/metalk8s) ⭐ 391 | 🐛 497 | 🌐 Scheme | 📅 2026-08-14 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
+* [metalk8s](https://github.com/scality/metalk8s) ⭐ 392 | 🐛 497 | 🌐 Scheme | 📅 2026-08-14 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
 * [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well. Supports Docker (container runtime) as well as Mesons and Kubernetes (container orchestration).
 * [Talos](https://www.talos.dev/) - Talos is a modern OS designed to be secure, immutable, and minimal. Its purpose is to host Kubernetes clusters, so it is tightly integrated with Kubernetes.
 * [Pharos](https://k8spharos.dev/) - Deploy and run Kubernetes workloads at any scale on any infrastructure.
@@ -167,7 +167,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 * [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
 * [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
 * [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
-* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,950 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
+* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,952 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [L4Re Runtime Environment](https://l4re.org/) - Operating system framework built on top of the Fiasco microkernel and providing user-level infrastructure that includes services (program loading, memory management, virtual machine management, etc.).
 * [LxWin](https://www.acontis.com/ja/lxwin.html) - (type 1, bare metal).
 * [LynxSecure](https://info.lynx.com/products/lynxsecure-programmable-processor-partitioning-system) - Least privilege real-time separation kernel hypervisor (type 1, bare metal).
@@ -178,9 +178,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,602 | 🐛 3,361 | 🌐 C | 📅 2026-08-16 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,604 | 🐛 3,365 | 🌐 C | 📅 2026-08-17 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,303 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
-* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,892 | 🐛 214 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
+* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,892 | 🐛 215 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 * [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,036 | 🐛 539 | 🌐 Go | 📅 2026-08-15 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,351 | 🐛 166 | 🌐 Python | 📅 2026-08-15 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,039 | 🐛 543 | 🌐 Go | 📅 2026-08-16 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,353 | 🐛 167 | 🌐 Python | 📅 2026-08-16 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,256 | 🐛 85 | 🌐 Rust | 📅 2026-08-01 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
