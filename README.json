@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99103619,
             "language": "Go",
             "last_commit": "2026-08-18T03:02:55Z",
             "owner": "go-debos",
             "repo": "debos",
-            "stars": 724
+            "stars": 725
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132375989,
             "language": null,
             "last_commit": "2024-11-19T09:14:21Z",
             "owner": "landley",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54995427,
             "language": "Python",
             "last_commit": "2026-08-18T16:00:15Z",
             "owner": "ilbers",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 219064722,
             "language": "Shell",
             "last_commit": "2022-11-06T16:01:04Z",
             "owner": "sgielen",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956827,
             "language": "Shell",
             "last_commit": "2025-02-04T21:55:06Z",
             "owner": "OpenBricks",
@@ -77,7 +82,7 @@
       "title": "Build systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36960321,
             "language": "Go",
-            "last_commit": "2026-08-18T23:56:05Z",
+            "last_commit": "2026-08-19T09:35:08Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13406
+            "stars": 13408
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62069434,
             "language": "Go",
             "last_commit": "2020-12-15T16:30:13Z",
             "owner": "kubernetes-retired",
@@ -111,46 +118,50 @@
       "title": "Container runtimes"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoboLinux",
+              "description": "Linux distribution redefining the entire filesystem hierarchy (no need for package database) which runs on ARM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64716303,
+                "language": "CSS",
+                "last_commit": "2026-08-14T21:48:13Z",
+                "owner": "gobolinux",
+                "repo": "Documentation",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GlowBarn OS",
+              "description": "Buildroot-based Linux distribution for Raspberry Pi focused on multi-sensor anomaly detection with real-time signal processing, WebSocket APIs, and paranormal research applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141606923,
+                "language": "Rust",
+                "last_commit": "2026-02-11T04:23:16Z",
+                "owner": "bad-antics",
+                "repo": "glowbarn-os",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Traditional Distributions"
+        }
+      ],
       "title": "Distributions"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoboLinux",
-          "description": "Linux distribution redefining the entire filesystem hierarchy (no need for package database) which runs on ARM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-08-14T21:48:13Z",
-            "owner": "gobolinux",
-            "repo": "Documentation",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GlowBarn OS",
-          "description": "Buildroot-based Linux distribution for Raspberry Pi focused on multi-sensor anomaly detection with real-time signal processing, WebSocket APIs, and paranormal research applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-11T04:23:16Z",
-            "owner": "bad-antics",
-            "repo": "glowbarn-os",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Traditional Distributions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -159,8 +170,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-19T04:18:31Z",
+            "last_commit": "2026-08-19T12:17:13Z",
             "owner": "systemd",
             "repo": "systemd",
             "stars": 16607
@@ -173,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40563188,
             "language": "Python",
             "last_commit": "2026-07-13T20:31:47Z",
             "owner": "Yelp",
@@ -187,23 +200,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9421615,
             "language": "C",
             "last_commit": "2026-08-02T20:30:47Z",
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1892
+            "stars": 1893
           }
         }
       ],
       "title": "Init systems"
     },
     {
-      "description": "2019/2020 there existed approx. 600 IoT platforms. \"IoT\" includes domains like healthcare, industry, etc.",
-      "items": [],
-      "title": "IoT platform integrations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -212,8 +221,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-19T03:36:00Z",
+            "last_commit": "2026-08-19T08:41:20Z",
             "owner": "kubernetes",
             "repo": "minikube",
             "stars": 32045
@@ -226,11 +236,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132732601,
             "language": "Python",
-            "last_commit": "2026-08-16T10:06:23Z",
+            "last_commit": "2026-08-19T10:18:53Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9354
+            "stars": 9355
           }
         },
         {
@@ -240,6 +251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302703576,
             "language": "Rust",
             "last_commit": "2026-08-01T21:58:24Z",
             "owner": "project-akri",
@@ -251,17 +263,7 @@
       "title": "Kubernetes"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Trainings"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -270,6 +272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220168321,
             "language": null,
             "last_commit": "2026-07-24T00:50:51Z",
             "owner": "qijianpeng",
@@ -284,6 +287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194094333,
             "language": "Python",
             "last_commit": "2023-02-23T11:17:36Z",
             "owner": "Bisonai",
@@ -298,6 +302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195458611,
             "language": null,
             "last_commit": "2025-05-28T09:08:10Z",
             "owner": "fkromer",
@@ -312,6 +317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173460732,
             "language": null,
             "last_commit": "2019-11-14T10:35:16Z",
             "owner": "rcmalli",
@@ -326,31 +332,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 276866813,
             "language": null,
             "last_commit": "2021-02-27T19:41:13Z",
             "owner": "fkromer",
             "repo": "awesome-ubuntu-core",
             "stars": 20
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Edge Intelligence",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Related awesome lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:48:37.731Z",
+    "last_updated": "2026-08-19T12:28:21.386Z",
     "original_repository": "fkromer/awesome-embedded-linux",
+    "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
     "enhanced_repository": "enhansome/enhansome-embedded-linux",
     "enhanced_repository_description": null,
