@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T15:51:54Z",
+            "last_commit": "2026-08-18T16:00:15Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-18T03:51:48Z",
+            "last_commit": "2026-08-18T23:56:05Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13404
+            "stars": 13406
           }
         },
         {
@@ -160,10 +160,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-18T05:33:46Z",
+            "last_commit": "2026-08-19T04:18:31Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16605
+            "stars": 16607
           }
         },
         {
@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T20:18:02Z",
+            "last_commit": "2026-08-19T03:36:00Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32040
+            "stars": 32045
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-08-16T10:06:23Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9355
+            "stars": 9354
           }
         },
         {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:47:15.338Z",
+    "last_updated": "2026-08-19T05:48:37.731Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
     "enhanced_repository": "enhansome/enhansome-embedded-linux",
