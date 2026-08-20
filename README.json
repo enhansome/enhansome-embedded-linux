@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T03:02:55Z",
             "owner": "go-debos",
             "repo": "debos",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 54995427,
             "language": "Python",
-            "last_commit": "2026-08-18T16:00:15Z",
+            "last_commit": "2026-08-19T15:54:26Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 36960321,
             "language": "Go",
-            "last_commit": "2026-08-19T09:35:08Z",
+            "last_commit": "2026-08-20T04:52:25Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13408
+            "stars": 13410
           }
         },
         {
@@ -172,10 +172,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-19T12:17:13Z",
+            "last_commit": "2026-08-20T04:41:31Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16607
+            "stars": 16610
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-08-02T20:30:47Z",
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1893
+            "stars": 1894
           }
         }
       ],
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:21.386Z",
+    "last_updated": "2026-08-20T05:48:20.921Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
