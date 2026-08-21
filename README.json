@@ -12,7 +12,7 @@
             "archived": false,
             "id": 99103619,
             "language": "Go",
-            "last_commit": "2026-08-18T03:02:55Z",
+            "last_commit": "2026-08-21T03:03:37Z",
             "owner": "go-debos",
             "repo": "debos",
             "stars": 726
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 54995427,
             "language": "Python",
-            "last_commit": "2026-08-19T15:54:26Z",
+            "last_commit": "2026-08-20T16:43:27Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-20T04:52:25Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13410
+            "stars": 13407
           }
         },
         {
@@ -172,10 +172,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-20T04:41:31Z",
+            "last_commit": "2026-08-21T05:23:33Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16610
+            "stars": 16612
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-19T08:41:20Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32045
+            "stars": 32047
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-19T10:18:53Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9355
+            "stars": 9354
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-07-24T00:50:51Z",
             "owner": "qijianpeng",
             "repo": "awesome-edge-computing",
-            "stars": 518
+            "stars": 519
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:48:20.921Z",
+    "last_updated": "2026-08-21T05:50:22.622Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
