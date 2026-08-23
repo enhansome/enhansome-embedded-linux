@@ -12,7 +12,7 @@
             "archived": false,
             "id": 99103619,
             "language": "Go",
-            "last_commit": "2026-08-21T03:03:37Z",
+            "last_commit": "2026-08-22T17:54:50Z",
             "owner": "go-debos",
             "repo": "debos",
             "stars": 726
@@ -172,10 +172,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-22T04:47:28Z",
+            "last_commit": "2026-08-23T05:32:42Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16614
+            "stars": 16619
           }
         },
         {
@@ -223,10 +223,10 @@
             "archived": false,
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-22T05:07:13Z",
+            "last_commit": "2026-08-22T22:45:16Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32048
+            "stars": 32051
           }
         },
         {
@@ -238,7 +238,7 @@
             "archived": false,
             "id": 132732601,
             "language": "Python",
-            "last_commit": "2026-08-21T10:10:06Z",
+            "last_commit": "2026-08-22T10:06:21Z",
             "owner": "canonical",
             "repo": "microk8s",
             "stars": 9353
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:45:35.965Z",
+    "last_updated": "2026-08-23T05:48:10.623Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
