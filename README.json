@@ -93,10 +93,10 @@
             "archived": false,
             "id": 36960321,
             "language": "Go",
-            "last_commit": "2026-08-20T04:52:25Z",
+            "last_commit": "2026-08-24T05:49:20Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13407
+            "stars": 13409
           }
         },
         {
@@ -172,10 +172,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-23T05:32:42Z",
+            "last_commit": "2026-08-24T05:44:00Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16619
+            "stars": 16621
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-08-02T20:30:47Z",
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1894
+            "stars": 1895
           }
         }
       ],
@@ -223,10 +223,10 @@
             "archived": false,
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-22T22:45:16Z",
+            "last_commit": "2026-08-23T11:19:25Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32051
+            "stars": 32054
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-22T10:06:21Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9353
+            "stars": 9354
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-01T21:58:24Z",
             "owner": "project-akri",
             "repo": "akri",
-            "stars": 1258
+            "stars": 1259
           }
         }
       ],
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:48:10.623Z",
+    "last_updated": "2026-08-24T05:55:39.275Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
