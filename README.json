@@ -42,7 +42,7 @@
             "archived": false,
             "id": 54995427,
             "language": "Python",
-            "last_commit": "2026-08-21T15:53:43Z",
+            "last_commit": "2026-08-24T09:54:40Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -121,6 +121,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Azure IoT Edge",
+          "description": "IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138646782,
+            "language": "C#",
+            "last_commit": "2026-08-21T17:57:25Z",
+            "owner": "Azure",
+            "repo": "iotedge",
+            "stars": 1508
+          }
+        }
+      ],
+      "title": "Cloud Provider Integration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mazecompositor",
+          "description": "A 3D qtwayland compositor (wayland, MIT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4748650,
+            "language": "C++",
+            "last_commit": "2012-09-25T20:30:40Z",
+            "owner": "capisce",
+            "repo": "mazecompositor",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Display Servers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -156,9 +198,73 @@
           "description": null,
           "node_type": "group",
           "title": "Traditional Distributions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "metalk8s",
+              "description": "An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124905930,
+                "language": "Scheme",
+                "last_commit": "2026-08-24T07:55:53Z",
+                "owner": "scality",
+                "repo": "metalk8s",
+                "stars": 394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Container Orchestration Distributions"
         }
       ],
       "title": "Distributions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source Tripwire",
+          "description": "Security and data integrity tool for monitoring and alerting on file & directory changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35015083,
+            "language": "C++",
+            "last_commit": "2024-02-12T17:27:12Z",
+            "owner": "Tripwire",
+            "repo": "tripwire-open-source",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "Host-based Intrusion Detection Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jailhouse",
+          "description": "Linux-based partitioning hypervisor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13720762,
+            "language": "C",
+            "last_commit": "2024-05-18T14:16:54Z",
+            "owner": "siemens",
+            "repo": "jailhouse",
+            "stars": 1951
+          }
+        }
+      ],
+      "title": "Hypervisors"
     },
     {
       "description": null,
@@ -172,10 +278,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-24T05:44:00Z",
+            "last_commit": "2026-08-24T14:22:24Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16621
+            "stars": 16624
           }
         },
         {
@@ -226,7 +332,7 @@
             "last_commit": "2026-08-23T11:19:25Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32054
+            "stars": 32056
           }
         },
         {
@@ -241,7 +347,7 @@
             "last_commit": "2026-08-22T10:06:21Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9354
+            "stars": 9355
           }
         },
         {
@@ -261,6 +367,48 @@
         }
       ],
       "title": "Kubernetes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "watchdogd",
+          "description": "Advanced System & Process Supervisor for (embedded) Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797135,
+            "language": "C",
+            "last_commit": "2026-02-13T11:13:29Z",
+            "owner": "troglobit",
+            "repo": "watchdogd",
+            "stars": 217
+          }
+        }
+      ],
+      "title": "Process control systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sthttpd",
+          "description": "A simple, small, portable, fast, and secure HTTP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29800203,
+            "language": "C",
+            "last_commit": "2022-09-07T07:36:15Z",
+            "owner": "blueness",
+            "repo": "sthttpd",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Web servers"
     },
     {
       "description": null,
@@ -345,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:55:39.275Z",
+    "last_updated": "2026-08-24T14:25:11.611Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",

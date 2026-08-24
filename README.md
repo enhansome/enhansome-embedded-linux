@@ -48,7 +48,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 * [Debos](https://github.com/go-debos/debos) ⭐ 726 | 🐛 127 | 🌐 Go | 📅 2026-08-22 - Debian OS builder.
 * [mkroot](https://github.com/landley/mkroot) ⭐ 453 | 🐛 6 | 📅 2024-11-19.
-* [Isar](https://github.com/ilbers/isar) ⭐ 249 | 🐛 36 | 🌐 Python | 📅 2026-08-21 - Integration System for Automated Root filesystem generation (Debian).
+* [Isar](https://github.com/ilbers/isar) ⭐ 249 | 🐛 36 | 🌐 Python | 📅 2026-08-24 - Integration System for Automated Root filesystem generation (Debian).
 * [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) ⚠️ Archived - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 * [OpenBricks](https://github.com/OpenBricks/openbricks) ⭐ 86 | 🐛 0 | 🌐 Shell | 📅 2025-02-04.
 * [buildroot](https://www.buildroot.org/).
@@ -101,8 +101,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Display Servers
 
-* [Enlightenment](http://www.enlightenment.org/) - (wayland, BSD).
 * [Mazecompositor](https://github.com/capisce/mazecompositor) ⭐ 157 | 🐛 4 | 🌐 C++ | 📅 2012-09-25 -  A 3D qtwayland compositor (wayland, MIT).
+* [Enlightenment](http://www.enlightenment.org/) - (wayland, BSD).
 * [Mir](https://mir-server.io/) - The fast, open and secure display server for any device (wayland, GPL).
 * [SWAY](https://swaywm.org/) - Tiling Wayland compositor (wayland, MIT).
 * [Weston](https://gitlab.freedesktop.org/wayland/weston) - Wayland project reference compositor (wayland, MIT).
@@ -135,8 +135,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ### Container Orchestration Distributions
 
+* [metalk8s](https://github.com/scality/metalk8s) ⭐ 394 | 🐛 501 | 🌐 Scheme | 📅 2026-08-24 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
 * [k3os](https://k3os.io/) - Linux distribution designed to remove as much OS maintenance as possible in a Kubernetes cluster. It is specifically designed to only have what is needed to run k3s.
-* [metalk8s](https://github.com/scality/metalk8s) ⭐ 394 | 🐛 501 | 🌐 Scheme | 📅 2026-08-21 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
 * [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well. Supports Docker (container runtime) as well as Mesons and Kubernetes (container orchestration).
 * [Talos](https://www.talos.dev/) - Talos is a modern OS designed to be secure, immutable, and minimal. Its purpose is to host Kubernetes clusters, so it is tightly integrated with Kubernetes.
 * [Pharos](https://k8spharos.dev/) - Deploy and run Kubernetes workloads at any scale on any infrastructure.
@@ -154,20 +154,20 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Host-based Intrusion Detection Systems
 
+* [Open Source Tripwire](https://github.com/Tripwire/tripwire-open-source) ⭐ 936 | 🐛 8 | 🌐 C++ | 📅 2024-02-12 - Security and data integrity tool for monitoring and alerting on file & directory changes.
 * [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment, a file and directory integrity checker.
 * [afick](http://afick.sourceforge.net/) - Another File Integrity Checker, monitors changes on the file system and detects intrusions.
 * [chrootkit](http://www.chkrootkit.org/) - Checks for rootkits.
-* [Open Source Tripwire](https://github.com/Tripwire/tripwire-open-source) ⭐ 936 | 🐛 8 | 🌐 C++ | 📅 2024-02-12 - Security and data integrity tool for monitoring and alerting on file & directory changes.
 * [OSSEC](https://www.ossec.net/) - The World’s Most Widely Used Host-based Intrusion Detection System.
 * [rkhunter](http://rkhunter.sourceforge.net/) - A rootkit hunter.
 * [SAMHAIN](https://la-samhna.de/samhain/) - Provides file integrity checking and log file monitoring/analysis, as well as rootkit detection, port monitoring, detection of rogue SUID executables, and hidden processes.
 
 ## Hypervisors
 
+* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,951 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
 * [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
 * [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
-* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,951 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [L4Re Runtime Environment](https://l4re.org/) - Operating system framework built on top of the Fiasco microkernel and providing user-level infrastructure that includes services (program loading, memory management, virtual machine management, etc.).
 * [LxWin](https://www.acontis.com/ja/lxwin.html) - (type 1, bare metal).
 * [LynxSecure](https://info.lynx.com/products/lynxsecure-programmable-processor-partitioning-system) - Least privilege real-time separation kernel hypervisor (type 1, bare metal).
@@ -178,7 +178,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,621 | 🐛 3,391 | 🌐 C | 📅 2026-08-24 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,624 | 🐛 3,388 | 🌐 C | 📅 2026-08-24 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,302 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,895 | 🐛 217 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,054 | 🐛 541 | 🌐 Go | 📅 2026-08-23 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,354 | 🐛 164 | 🌐 Python | 📅 2026-08-22 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,056 | 🐛 542 | 🌐 Go | 📅 2026-08-23 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,355 | 🐛 164 | 🌐 Python | 📅 2026-08-22 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,259 | 🐛 89 | 🌐 Rust | 📅 2026-08-01 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -229,11 +229,11 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Process control systems
 
+* [watchdogd](https://github.com/troglobit/watchdogd) ⭐ 217 | 🐛 2 | 🌐 C | 📅 2026-02-13 - Advanced System & Process Supervisor for (embedded) Linux.
 * [daemontools](http://cr.yp.to/daemontools.html) - Collection of tools for managing services.
 * [M/Monit](https://mmonit.com/) - Can monitor and manage distributed computer systems (including their processes), conduct automatic maintenance and repair and execute meaningful causal actions in error situations.
 * [s6](https://skarnet.org/software/s6/) - Suite of programs to allow process supervision (a.k.a service supervision).
 * [Supervisor](http://supervisord.org/) - A client/server system that allows its users to monitor and control a number of processes.
-* [watchdogd](https://github.com/troglobit/watchdogd) ⭐ 217 | 🐛 2 | 🌐 C | 📅 2026-02-13 - Advanced System & Process Supervisor for (embedded) Linux.
 
 ## SSH servers
 
@@ -244,6 +244,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Web servers
 
+* [sthttpd](https://github.com/blueness/sthttpd) ⭐ 81 | 🐛 10 | 🌐 C | 📅 2022-09-07 - A simple, small, portable, fast, and secure HTTP server.
 * [Apache](http://httpd.apache.org/) - httpd.
 * [Barracuda](https://realtimelogic.com/products/barracuda-web-server/) - Optimized for deeply embedded devices in remote-monitoring and control-management applications.
 * [Cherokee](http://cherokee-project.com/) - .
@@ -253,7 +254,6 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 * [Mongoose](https://mongoose.ws/) - Embedded web server with a Web UI builder. Provides event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT, and other protocols.
 * [nginx](http://nginx.org/) - Web server and reverse proxy server with a strong focus on high concurrency, performance and low memory usage.
 * [nostromo](http://www.nazgul.ch/dev_nostromo.html) - nhttpd is a simple, fast and secure HTTP server.
-* [sthttpd](https://github.com/blueness/sthttpd) ⭐ 81 | 🐛 10 | 🌐 C | 📅 2022-09-07 - A simple, small, portable, fast, and secure HTTP server.
 
 ## Zero configuration networking
 
