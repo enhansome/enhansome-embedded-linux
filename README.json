@@ -42,7 +42,7 @@
             "archived": false,
             "id": 54995427,
             "language": "Python",
-            "last_commit": "2026-08-24T09:54:40Z",
+            "last_commit": "2026-08-25T07:55:42Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-24T19:57:15Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13411
+            "stars": 13412
           }
         },
         {
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-25T05:44:29Z",
+            "last_commit": "2026-08-25T07:50:05Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16625
+            "stars": 16626
           }
         },
         {
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:37.842Z",
+    "last_updated": "2026-08-25T08:06:55.772Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
