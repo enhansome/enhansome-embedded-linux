@@ -96,7 +96,7 @@
             "last_commit": "2026-08-24T19:57:15Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13412
+            "stars": 13414
           }
         },
         {
@@ -210,7 +210,7 @@
                 "archived": false,
                 "id": 124905930,
                 "language": "Scheme",
-                "last_commit": "2026-08-24T07:55:53Z",
+                "last_commit": "2026-08-25T12:09:56Z",
                 "owner": "scality",
                 "repo": "metalk8s",
                 "stars": 394
@@ -260,7 +260,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1951
+            "stars": 1952
           }
         }
       ],
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-25T07:50:05Z",
+            "last_commit": "2026-08-26T03:08:07Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16626
+            "stars": 16629
           }
         },
         {
@@ -329,10 +329,10 @@
             "archived": false,
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-25T00:06:47Z",
+            "last_commit": "2026-08-25T11:19:12Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32059
+            "stars": 32063
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-22T10:06:21Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9355
+            "stars": 9357
           }
         },
         {
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:06:55.772Z",
+    "last_updated": "2026-08-26T05:52:31.407Z",
     "original_repository": "fkromer/awesome-embedded-linux",
     "original_repository_id": 189845569,
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
