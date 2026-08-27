@@ -42,7 +42,7 @@
             "archived": false,
             "id": 54995427,
             "language": "Python",
-            "last_commit": "2026-08-25T07:55:42Z",
+            "last_commit": "2026-08-27T09:26:15Z",
             "owner": "ilbers",
             "repo": "isar",
             "stars": 249
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-24T19:57:15Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13414
+            "stars": 13415
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 138646782,
             "language": "C#",
-            "last_commit": "2026-08-21T17:57:25Z",
+            "last_commit": "2026-08-26T20:04:26Z",
             "owner": "Azure",
             "repo": "iotedge",
-            "stars": 1508
+            "stars": 1509
           }
         }
       ],
@@ -210,7 +210,7 @@
                 "archived": false,
                 "id": 124905930,
                 "language": "Scheme",
-                "last_commit": "2026-08-25T12:09:56Z",
+                "last_commit": "2026-08-27T10:12:48Z",
                 "owner": "scality",
                 "repo": "metalk8s",
                 "stars": 394
@@ -260,7 +260,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1952
+            "stars": 1956
           }
         }
       ],
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-26T03:08:07Z",
+            "last_commit": "2026-08-27T11:20:48Z",
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16629
+            "stars": 16634
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-07-13T20:31:47Z",
             "owner": "Yelp",
             "repo": "dumb-init",
-            "stars": 7302
+            "stars": 7304
           }
         },
         {
@@ -329,10 +329,10 @@
             "archived": false,
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-25T11:19:12Z",
+            "last_commit": "2026-08-26T22:53:08Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32063
+            "stars": 32070
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-22T10:06:21Z",
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9357
+            "stars": 9359
           }
         },
         {
@@ -493,9 +493,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:52:31.407Z",
-    "original_repository": "fkromer/awesome-embedded-linux",
-    "original_repository_id": 189845569,
+    "last_updated": "2026-08-27T11:35:06.049Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 189845569,
+      "language": null,
+      "last_commit": "2026-01-25T19:43:44Z",
+      "owner": "fkromer",
+      "repo": "awesome-embedded-linux",
+      "stars": 427
+    },
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
     "enhanced_repository": "enhansome/enhansome-embedded-linux",
     "enhanced_repository_description": null,
