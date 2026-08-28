@@ -48,7 +48,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 * [Debos](https://github.com/go-debos/debos) ⭐ 727 | 🐛 127 | 🌐 Go | 📅 2026-08-22 - Debian OS builder.
 * [mkroot](https://github.com/landley/mkroot) ⭐ 453 | 🐛 6 | 📅 2024-11-19.
-* [Isar](https://github.com/ilbers/isar) ⭐ 249 | 🐛 37 | 🌐 Python | 📅 2026-08-27 - Integration System for Automated Root filesystem generation (Debian).
+* [Isar](https://github.com/ilbers/isar) ⭐ 249 | 🐛 37 | 🌐 Python | 📅 2026-08-28 - Integration System for Automated Root filesystem generation (Debian).
 * [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) ⚠️ Archived - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 * [OpenBricks](https://github.com/OpenBricks/openbricks) ⭐ 86 | 🐛 0 | 🌐 Shell | 📅 2025-02-04.
 * [buildroot](https://www.buildroot.org/).
@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,416 | 🐛 349 | 🌐 Go | 📅 2026-08-24 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,418 | 🐛 346 | 🌐 Go | 📅 2026-08-28 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -83,7 +83,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Cloud Provider Integration
 
-* [Azure IoT Edge](https://github.com/Azure/iotedge) ⭐ 1,509 | 🐛 95 | 🌐 C# | 📅 2026-08-26 - IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.
+* [Azure IoT Edge](https://github.com/Azure/iotedge) ⭐ 1,509 | 🐛 96 | 🌐 C# | 📅 2026-08-26 - IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.
 * [AWS Edge](https://aws.amazon.com/edge/)
   * [IoT Core](https://aws.amazon.com/iot-core/) - Easily and securely connect devices to the cloud. Reliably scale to billions of devices and trillions of messages.
   * [IoT Device Management](https://aws.amazon.com/iot-device-management) - Register, organize, monitor, and remotely manage connected devices at scale.
@@ -135,7 +135,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ### Container Orchestration Distributions
 
-* [metalk8s](https://github.com/scality/metalk8s) ⭐ 394 | 🐛 503 | 🌐 Scheme | 📅 2026-08-27 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
+* [metalk8s](https://github.com/scality/metalk8s) ⭐ 394 | 🐛 503 | 🌐 Scheme | 📅 2026-08-28 - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments.
 * [k3os](https://k3os.io/) - Linux distribution designed to remove as much OS maintenance as possible in a Kubernetes cluster. It is specifically designed to only have what is needed to run k3s.
 * [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well. Supports Docker (container runtime) as well as Mesons and Kubernetes (container orchestration).
 * [Talos](https://www.talos.dev/) - Talos is a modern OS designed to be secure, immutable, and minimal. Its purpose is to host Kubernetes clusters, so it is tightly integrated with Kubernetes.
@@ -164,7 +164,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Hypervisors
 
-* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,957 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
+* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,958 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
 * [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
 * [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
@@ -178,7 +178,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,634 | 🐛 3,378 | 🌐 C | 📅 2026-08-27 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,634 | 🐛 3,378 | 🌐 C | 📅 2026-08-28 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,304 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,896 | 🐛 218 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,071 | 🐛 542 | 🌐 Go | 📅 2026-08-26 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,359 | 🐛 166 | 🌐 Python | 📅 2026-08-27 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,074 | 🐛 540 | 🌐 Go | 📅 2026-08-28 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,359 | 🐛 165 | 🌐 Python | 📅 2026-08-28 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,259 | 🐛 88 | 🌐 Rust | 📅 2026-08-24 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -355,7 +355,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Related awesome lists
 
-* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 519 | 🐛 1 | 📅 2026-07-24
+* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 520 | 🐛 1 | 📅 2026-07-24
 * [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) ⭐ 281 | 🐛 3 | 🌐 Python | 📅 2023-02-23
 * [awesome-yocto-project](https://github.com/fkromer/awesome-yocto-project) ⭐ 66 | 🐛 2 | 📅 2025-05-28
 * [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai) ⭐ 56 | 🐛 2 | 📅 2019-11-14
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
