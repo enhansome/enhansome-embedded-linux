@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debian OS builder",
+            "homepage": null,
             "id": 99103619,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T17:54:50Z",
+            "open_issues": 127,
             "owner": "go-debos",
             "repo": "debos",
-            "stars": 727
+            "stars": 728,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Linux build, bootable under qemu for multiple architectures.",
+            "homepage": null,
             "id": 132375989,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-11-19T09:14:21Z",
+            "open_issues": 6,
             "owner": "landley",
             "repo": "mkroot",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Register for the Isar Community Meetup in Prague on 5th of October",
+            "homepage": "https://eveeno.com/isar2026",
             "id": 54995427,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:57:41Z",
+            "open_issues": 37,
             "owner": "ilbers",
             "repo": "isar",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate images for k3os compatible with various armv8/aarch64/arm64 devices",
+            "homepage": null,
             "id": 219064722,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-11-06T16:01:04Z",
+            "open_issues": 0,
             "owner": "sgielen",
             "repo": "picl-k3os-image-generator",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded Linux Framework",
+            "homepage": "http://www.geexbox.org/",
             "id": 956827,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2025-02-04T21:55:06Z",
+            "open_issues": 0,
             "owner": "OpenBricks",
             "repo": "openbricks",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -96,12 +121,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for spawning and running containers according to the OCI specification",
+            "homepage": "https://www.opencontainers.org/",
             "id": 36960321,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:50:37Z",
+            "open_issues": 346,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13418
+            "stars": 13419,
+            "topics": [
+              "containers",
+              "docker",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -112,12 +146,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The hypervisor-based container runtime for Kubernetes.",
+            "homepage": null,
             "id": 62069434,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-15T16:30:13Z",
+            "open_issues": 0,
             "owner": "kubernetes-retired",
             "repo": "frakti",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "containers",
+              "cri",
+              "hypervisor",
+              "katacontainers",
+              "kernel",
+              "kubernetes",
+              "pod"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -134,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The IoT Edge OSS project",
+            "homepage": null,
             "id": 138646782,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:04:26Z",
+            "open_issues": 98,
             "owner": "Azure",
             "repo": "iotedge",
-            "stars": 1509
+            "stars": 1509,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -156,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D qtwayland compositor",
+            "homepage": null,
             "id": 4748650,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2012-09-25T20:30:40Z",
+            "open_issues": 4,
             "owner": "capisce",
             "repo": "mazecompositor",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -180,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 Documentation of the GoboLinux project",
+                "homepage": "https://wiki.gobolinux.org",
                 "id": 64716303,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-14T21:48:13Z",
+                "open_issues": 5,
                 "owner": "gobolinux",
                 "repo": "Documentation",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:08.316Z"
             },
@@ -196,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GlowBarn OS - Paranormal Research Operating System built with Buildroot",
+                "homepage": null,
                 "id": 1141606923,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-11T04:23:16Z",
+                "open_issues": 0,
                 "owner": "bad-antics",
                 "repo": "glowbarn-os",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:08.316Z"
             }
@@ -219,12 +286,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated Kubernetes distribution with a focus on long-term on-prem deployments",
+                "homepage": null,
                 "id": 124905930,
                 "language": "Scheme",
-                "last_commit": "2026-08-28T17:26:40Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:34:37Z",
+                "open_issues": 500,
                 "owner": "scality",
                 "repo": "metalk8s",
-                "stars": 394
+                "stars": 394,
+                "topics": [
+                  "artesca",
+                  "cloud",
+                  "cloud-native",
+                  "k8s",
+                  "k8s-cluster",
+                  "k8s-deployer",
+                  "k8s-install",
+                  "kubernetes",
+                  "kubernetes-cluster",
+                  "kubernetes-deployment",
+                  "kubernetes-distribution",
+                  "kubernetes-installation",
+                  "kubernetes-monitoring",
+                  "kubernetes-setup",
+                  "on-prem",
+                  "on-premise",
+                  "on-premises"
+                ]
               },
               "first_seen": "2026-08-28T17:28:08.316Z"
             }
@@ -246,12 +336,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Tripwire®",
+            "homepage": null,
             "id": 35015083,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2024-02-12T17:27:12Z",
+            "open_issues": 8,
             "owner": "Tripwire",
             "repo": "tripwire-open-source",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "change-detection",
+              "md5",
+              "security",
+              "security-tools",
+              "sha1",
+              "tripwire"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -268,12 +370,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux-based partitioning hypervisor",
+            "homepage": null,
             "id": 13720762,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-18T14:16:54Z",
+            "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1958
+            "stars": 1958,
+            "topics": [
+              "hypervisor",
+              "linux",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -290,12 +401,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The systemd System and Service Manager ",
+            "homepage": "https://systemd.io",
             "id": 32873313,
             "language": "C",
-            "last_commit": "2026-08-28T16:54:59Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T02:29:58Z",
+            "open_issues": 3379,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16634
+            "stars": 16638,
+            "topics": [
+              "c",
+              "init",
+              "linux",
+              "services",
+              "system",
+              "systemd"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -306,12 +429,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal init system for Linux containers",
+            "homepage": "https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html",
             "id": 40563188,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T20:31:47Z",
+            "open_issues": 33,
             "owner": "Yelp",
             "repo": "dumb-init",
-            "stars": 7304
+            "stars": 7304,
+            "topics": [
+              "c",
+              "docker",
+              "docker-container",
+              "dumb",
+              "init",
+              "pid1",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -322,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OpenRC init system",
+            "homepage": null,
             "id": 9421615,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-02T20:30:47Z",
+            "open_issues": 218,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1896
+            "stars": 1896,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -344,12 +485,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Kubernetes locally",
+            "homepage": "https://minikube.sigs.k8s.io/",
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-28T14:27:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:14:04Z",
+            "open_issues": 539,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32074
+            "stars": 32073,
+            "topics": [
+              "cluster",
+              "cncf",
+              "containers",
+              "go",
+              "kubernetes",
+              "minikube"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -360,12 +513,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.",
+            "homepage": "https://microk8s.io",
             "id": 132732601,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:25:35Z",
+            "open_issues": 165,
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9359
+            "stars": 9359,
+            "topics": [
+              "cicd",
+              "developer-workstations",
+              "hacktoberfest",
+              "iot",
+              "k8s",
+              "kubernetes",
+              "snap"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -376,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kubernetes Resource Interface for the Edge",
+            "homepage": "https://docs.akri.sh/",
             "id": 302703576,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:00:54Z",
+            "open_issues": 88,
             "owner": "project-akri",
             "repo": "akri",
-            "stars": 1259
+            "stars": 1259,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -398,12 +569,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced system monitor & process supervisor for Linux",
+            "homepage": "https://troglobit.com/watchdogd.html",
             "id": 797135,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-02-13T11:13:29Z",
+            "open_issues": 2,
             "owner": "troglobit",
             "repo": "watchdogd",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "c",
+              "daemon",
+              "embedded",
+              "isc-license",
+              "linux",
+              "process-supervisor",
+              "watchdog",
+              "watchdog-daemon",
+              "wdt"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -420,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fork of Jef Poskanzer's popular thttpd.",
+            "homepage": null,
             "id": 29800203,
             "language": "C",
+            "license": null,
             "last_commit": "2022-09-07T07:36:15Z",
+            "open_issues": 10,
             "owner": "blueness",
             "repo": "sthttpd",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -442,12 +633,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.",
+            "homepage": null,
             "id": 220168321,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-24T00:50:51Z",
+            "open_issues": 1,
             "owner": "qijianpeng",
             "repo": "awesome-edge-computing",
-            "stars": 520
+            "stars": 521,
+            "topics": [
+              "awesome-list",
+              "edge-ai",
+              "edge-computing",
+              "edge-intelligence",
+              "emulation",
+              "fog-computing",
+              "lightweight-framework",
+              "serveless",
+              "simulation",
+              "simulators"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -458,12 +665,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
+            "homepage": null,
             "id": 194094333,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-23T11:17:36Z",
+            "open_issues": 3,
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "auto-ml",
+              "awesome-list",
+              "edge",
+              "edge-deep-learning",
+              "edge-machine-learning",
+              "efficient-architectures",
+              "embedded-machine-learning",
+              "federated-learning",
+              "iot",
+              "mobile-machine-learning",
+              "pruning",
+              "quantization"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -474,12 +699,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's not an embedded Linux Distribution, It creates a custom one for you.",
+            "homepage": "https://fkromer.github.io/awesome-yocto-project/",
             "id": 195458611,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-05-28T09:08:10Z",
+            "open_issues": 2,
             "owner": "fkromer",
             "repo": "awesome-yocto-project",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "embedded-linux",
+              "poky",
+              "yocto",
+              "yocto-project"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -490,12 +725,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of edge tools for AI applications",
+            "homepage": null,
             "id": 173460732,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2019-11-14T10:35:16Z",
+            "open_issues": 2,
             "owner": "rcmalli",
             "repo": "awesome-edge-ai",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "edge-ai",
+              "embedded-systems",
+              "iot"
+            ]
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         },
@@ -506,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 276866813,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-02-27T19:41:13Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ubuntu-core",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
         }
@@ -520,15 +771,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:28:08.316Z",
+    "last_updated": "2026-08-29T04:45:32.028Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Embedded Linux resources.",
+      "homepage": "https://fkromer.github.io/awesome-embedded-linux/",
       "id": 189845569,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-01-25T19:43:44Z",
+      "open_issues": 0,
       "owner": "fkromer",
       "repo": "awesome-embedded-linux",
-      "stars": 428
+      "stars": 428,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "embedded-linux",
+        "linux"
+      ]
     },
     "original_repository_sha": "3001ace6eca0844c2ad911022a37dc165f7889c1",
     "enhanced_repository": "enhansome/enhansome-embedded-linux",
