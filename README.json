@@ -127,7 +127,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:50:37Z",
-            "open_issues": 346,
+            "open_issues": 347,
             "owner": "opencontainers",
             "repo": "runc",
             "stars": 13419,
@@ -345,7 +345,7 @@
             "open_issues": 8,
             "owner": "Tripwire",
             "repo": "tripwire-open-source",
-            "stars": 936,
+            "stars": 937,
             "topics": [
               "change-detection",
               "md5",
@@ -379,7 +379,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1958,
+            "stars": 1959,
             "topics": [
               "hypervisor",
               "linux",
@@ -406,11 +406,11 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T02:29:58Z",
+            "last_commit": "2026-08-29T11:38:14Z",
             "open_issues": 3379,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16638,
+            "stars": 16639,
             "topics": [
               "c",
               "init",
@@ -467,7 +467,7 @@
             "open_issues": 218,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1896,
+            "stars": 1895,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -491,10 +491,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T03:14:04Z",
-            "open_issues": 539,
+            "open_issues": 548,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32073,
+            "stars": 32075,
             "topics": [
               "cluster",
               "cncf",
@@ -551,7 +551,7 @@
             "open_issues": 88,
             "owner": "project-akri",
             "repo": "akri",
-            "stars": 1259,
+            "stars": 1260,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:32.028Z",
+    "last_updated": "2026-08-29T11:40:44.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Embedded Linux resources.",
