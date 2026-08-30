@@ -127,10 +127,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:50:37Z",
-            "open_issues": 347,
+            "open_issues": 349,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13419,
+            "stars": 13421,
             "topics": [
               "containers",
               "docker",
@@ -406,8 +406,8 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T11:38:14Z",
-            "open_issues": 3379,
+            "last_commit": "2026-08-30T08:09:29Z",
+            "open_issues": 3381,
             "owner": "systemd",
             "repo": "systemd",
             "stars": 16639,
@@ -467,7 +467,7 @@
             "open_issues": 218,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1895,
+            "stars": 1897,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -490,11 +490,11 @@
             "id": 56353740,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:14:04Z",
-            "open_issues": 548,
+            "last_commit": "2026-08-29T15:42:07Z",
+            "open_issues": 550,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32075,
+            "stars": 32077,
             "topics": [
               "cluster",
               "cncf",
@@ -522,7 +522,7 @@
             "open_issues": 165,
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9359,
+            "stars": 9360,
             "topics": [
               "cicd",
               "developer-workstations",
@@ -548,7 +548,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:00:54Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "project-akri",
             "repo": "akri",
             "stars": 1260,
@@ -698,7 +698,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "It's not an embedded Linux Distribution, It creates a custom one for you.",
             "homepage": "https://fkromer.github.io/awesome-yocto-project/",
             "id": 195458611,
@@ -771,9 +771,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:40:44.111Z",
+    "last_updated": "2026-08-30T10:30:08.599Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "A curated list of awesome Embedded Linux resources.",
       "homepage": "https://fkromer.github.io/awesome-embedded-linux/",
       "id": 189845569,
