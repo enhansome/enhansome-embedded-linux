@@ -46,9 +46,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Build systems
 
-* [Debos](https://github.com/go-debos/debos) ⭐ 728 | 🐛 128 | 🌐 Go | 📅 2026-08-22 - Debian OS builder.
+* [Debos](https://github.com/go-debos/debos) ⭐ 729 | 🐛 129 | 🌐 Go | 📅 2026-09-07 - Debian OS builder.
 * [mkroot](https://github.com/landley/mkroot) ⭐ 453 | 🐛 6 | 📅 2024-11-19.
-* [Isar](https://github.com/ilbers/isar) ⭐ 249 | 🐛 37 | 🌐 Python | 📅 2026-09-04 - Integration System for Automated Root filesystem generation (Debian).
+* [Isar](https://github.com/ilbers/isar) ⭐ 250 | 🐛 37 | 🌐 Python | 📅 2026-09-07 - Integration System for Automated Root filesystem generation (Debian).
 * [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) ⚠️ Archived - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 * [OpenBricks](https://github.com/OpenBricks/openbricks) ⭐ 86 | 🐛 0 | 🌐 Shell | 📅 2025-02-04.
 * [buildroot](https://www.buildroot.org/).
@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,434 | 🐛 339 | 🌐 Go | 📅 2026-09-06 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,436 | 🐛 340 | 🌐 Go | 📅 2026-09-07 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -154,7 +154,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Host-based Intrusion Detection Systems
 
-* [Open Source Tripwire](https://github.com/Tripwire/tripwire-open-source) ⭐ 937 | 🐛 8 | 🌐 C++ | 📅 2024-02-12 - Security and data integrity tool for monitoring and alerting on file & directory changes.
+* [Open Source Tripwire](https://github.com/Tripwire/tripwire-open-source) ⭐ 938 | 🐛 8 | 🌐 C++ | 📅 2024-02-12 - Security and data integrity tool for monitoring and alerting on file & directory changes.
 * [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment, a file and directory integrity checker.
 * [afick](http://afick.sourceforge.net/) - Another File Integrity Checker, monitors changes on the file system and detects intrusions.
 * [chrootkit](http://www.chkrootkit.org/) - Checks for rootkits.
@@ -178,9 +178,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,663 | 🐛 3,414 | 🌐 C | 📅 2026-09-06 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,665 | 🐛 3,418 | 🌐 C | 📅 2026-09-07 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,306 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
-* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,902 | 🐛 220 | 🌐 C | 📅 2026-08-02 - Dependency-based init system that works with the system-provided init program.
+* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,906 | 🐛 216 | 🌐 C | 📅 2026-09-06 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 * [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
@@ -205,9 +205,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,102 | 🐛 560 | 🌐 Go | 📅 2026-09-06 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,366 | 🐛 160 | 🌐 Python | 📅 2026-09-04 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
-* [Akri](https://github.com/deislabs/akri) ⭐ 1,261 | 🐛 89 | 🌐 Rust | 📅 2026-09-01 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,104 | 🐛 566 | 🌐 Go | 📅 2026-09-06 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,366 | 🐛 159 | 🌐 Python | 📅 2026-09-07 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [Akri](https://github.com/deislabs/akri) ⭐ 1,262 | 🐛 89 | 🌐 Rust | 📅 2026-09-01 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
 ## Kubernetes Edge Computing Platforms
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
