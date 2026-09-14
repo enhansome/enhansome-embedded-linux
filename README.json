@@ -57,7 +57,7 @@
             "id": 54995427,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T15:57:41Z",
+            "last_commit": "2026-09-14T08:16:25Z",
             "open_issues": 36,
             "owner": "ilbers",
             "repo": "isar",
@@ -126,11 +126,11 @@
             "id": 36960321,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T06:51:08Z",
-            "open_issues": 334,
+            "last_commit": "2026-09-14T08:11:13Z",
+            "open_issues": 340,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13439,
+            "stars": 13443,
             "topics": [
               "containers",
               "docker",
@@ -379,7 +379,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1962,
+            "stars": 1963,
             "topics": [
               "hypervisor",
               "linux",
@@ -406,11 +406,11 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T02:18:22Z",
-            "open_issues": 3437,
+            "last_commit": "2026-09-14T10:11:01Z",
+            "open_issues": 3438,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16687,
+            "stars": 16690,
             "topics": [
               "c",
               "init",
@@ -463,11 +463,11 @@
             "id": 9421615,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-07T18:43:48Z",
-            "open_issues": 215,
+            "last_commit": "2026-09-13T13:34:55Z",
+            "open_issues": 213,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1911,
+            "stars": 1912,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -494,7 +494,7 @@
             "open_issues": 569,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32124,
+            "stars": 32128,
             "topics": [
               "cluster",
               "cncf",
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:20:15.303Z",
+    "last_updated": "2026-09-14T10:44:25.708Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome Embedded Linux resources.",
