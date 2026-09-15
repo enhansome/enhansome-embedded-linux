@@ -57,7 +57,7 @@
             "id": 54995427,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T08:16:25Z",
+            "last_commit": "2026-09-15T09:37:17Z",
             "open_issues": 36,
             "owner": "ilbers",
             "repo": "isar",
@@ -126,11 +126,11 @@
             "id": 36960321,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T08:11:13Z",
-            "open_issues": 340,
+            "last_commit": "2026-09-15T04:52:33Z",
+            "open_issues": 343,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13443,
+            "stars": 13445,
             "topics": [
               "containers",
               "docker",
@@ -291,8 +291,8 @@
                 "id": 124905930,
                 "language": "Scheme",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T08:55:03Z",
-                "open_issues": 486,
+                "last_commit": "2026-09-15T09:29:09Z",
+                "open_issues": 485,
                 "owner": "scality",
                 "repo": "metalk8s",
                 "stars": 394,
@@ -345,7 +345,7 @@
             "open_issues": 8,
             "owner": "Tripwire",
             "repo": "tripwire-open-source",
-            "stars": 940,
+            "stars": 941,
             "topics": [
               "change-detection",
               "md5",
@@ -406,11 +406,11 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-14T10:11:01Z",
+            "last_commit": "2026-09-15T07:13:31Z",
             "open_issues": 3438,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16690,
+            "stars": 16693,
             "topics": [
               "c",
               "init",
@@ -438,7 +438,7 @@
             "open_issues": 33,
             "owner": "Yelp",
             "repo": "dumb-init",
-            "stars": 7308,
+            "stars": 7309,
             "topics": [
               "c",
               "docker",
@@ -467,7 +467,7 @@
             "open_issues": 213,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1912,
+            "stars": 1914,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -490,11 +490,11 @@
             "id": 56353740,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T22:31:13Z",
-            "open_issues": 569,
+            "last_commit": "2026-09-14T18:05:13Z",
+            "open_issues": 575,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32128,
+            "stars": 32130,
             "topics": [
               "cluster",
               "cncf",
@@ -519,10 +519,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-13T10:19:28Z",
-            "open_issues": 159,
+            "open_issues": 158,
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9366,
+            "stars": 9367,
             "topics": [
               "cicd",
               "developer-workstations",
@@ -551,7 +551,7 @@
             "open_issues": 90,
             "owner": "project-akri",
             "repo": "akri",
-            "stars": 1264,
+            "stars": 1263,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:44:25.708Z",
+    "last_updated": "2026-09-15T10:08:24.059Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome Embedded Linux resources.",
