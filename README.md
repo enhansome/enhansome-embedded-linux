@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,451 | 🐛 339 | 🌐 Go | 📅 2026-09-18 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,453 | 🐛 339 | 🌐 Go | 📅 2026-09-18 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -111,8 +111,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ### Traditional Distributions
 
-* [GoboLinux](https://gobolinux.org/) - Linux distribution redefining the entire filesystem hierarchy (no need for package database) which [runs on ARM](https://github.com/gobolinux/Documentation/wiki/GoboLinux-Embedded) ⭐ 52 | 🐛 5 | 🌐 CSS | 📅 2026-08-14.
-* [GlowBarn OS](https://github.com/bad-antics/glowbarn-os) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-02-11 - Buildroot-based Linux distribution for Raspberry Pi focused on multi-sensor anomaly detection with real-time signal processing, WebSocket APIs, and paranormal research applications.
+* [GoboLinux](https://gobolinux.org/) - Linux distribution redefining the entire filesystem hierarchy (no need for package database) which [runs on ARM](https://github.com/gobolinux/Documentation/wiki/GoboLinux-Embedded) ⭐ 52 | 🐛 5 | 🌐 CSS | 📅 2026-09-20.
+* [GlowBarn OS](https://github.com/bad-antics/glowbarn-os) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-02-11 - Buildroot-based Linux distribution for Raspberry Pi focused on multi-sensor anomaly detection with real-time signal processing, WebSocket APIs, and paranormal research applications.
 * [Aboriginal Linux](http://landley.net/aboriginal/) - DISCONTINUED.
 * [Android](https://www.android.com/versions/pie-9-0/).
 * [Android (Go edition)](https://www.android.com/versions/go-edition/).
@@ -178,9 +178,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,702 | 🐛 3,474 | 🌐 C | 📅 2026-09-19 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,706 | 🐛 3,480 | 🌐 C | 📅 2026-09-20 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,309 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
-* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,918 | 🐛 211 | 🌐 C | 📅 2026-09-18 - Dependency-based init system that works with the system-provided init program.
+* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,917 | 🐛 212 | 🌐 C | 📅 2026-09-18 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 * [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,140 | 🐛 601 | 🌐 Go | 📅 2026-09-18 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,369 | 🐛 159 | 🌐 Python | 📅 2026-09-16 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,141 | 🐛 600 | 🌐 Go | 📅 2026-09-19 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,370 | 🐛 157 | 🌐 Python | 📅 2026-09-16 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,263 | 🐛 89 | 🌐 Rust | 📅 2026-09-15 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -355,8 +355,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Related awesome lists
 
-* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 521 | 🐛 1 | 📅 2026-09-08
-* [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) ⭐ 282 | 🐛 2 | 🌐 Python | 📅 2026-09-15
+* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 520 | 🐛 1 | 📅 2026-09-08
+* [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) ⭐ 282 | 🐛 3 | 🌐 Python | 📅 2026-09-15
 * [awesome-yocto-project](https://github.com/fkromer/awesome-yocto-project) ⚠️ Archived
 * [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai) ⭐ 56 | 🐛 1 | 📅 2019-11-14
 * [awesome-ubuntu-core](https://github.com/fkromer/awesome-ubuntu-core) ⚠️ Archived
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
