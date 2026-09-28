@@ -48,7 +48,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 * [Debos](https://github.com/go-debos/debos) ⭐ 732 | 🐛 130 | 🌐 Go | 📅 2026-09-07 - Debian OS builder.
 * [mkroot](https://github.com/landley/mkroot) ⭐ 453 | 🐛 6 | 📅 2024-11-19.
-* [Isar](https://github.com/ilbers/isar) ⭐ 252 | 🐛 36 | 🌐 Python | 📅 2026-09-25 - Integration System for Automated Root filesystem generation (Debian).
+* [Isar](https://github.com/ilbers/isar) ⭐ 252 | 🐛 36 | 🌐 Python | 📅 2026-09-28 - Integration System for Automated Root filesystem generation (Debian).
 * [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) ⚠️ Archived - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 * [OpenBricks](https://github.com/OpenBricks/openbricks) ⭐ 86 | 🐛 0 | 🌐 Shell | 📅 2025-02-04.
 * [buildroot](https://www.buildroot.org/).
@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,462 | 🐛 340 | 🌐 Go | 📅 2026-09-25 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,463 | 🐛 341 | 🌐 Go | 📅 2026-09-28 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -178,9 +178,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,752 | 🐛 3,496 | 🌐 C | 📅 2026-09-27 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,755 | 🐛 3,507 | 🌐 C | 📅 2026-09-28 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,311 | 🐛 33 | 🌐 Python | 📅 2026-07-13 - A minimal init system for Linux containers.
-* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,920 | 🐛 215 | 🌐 C | 📅 2026-09-23 - Dependency-based init system that works with the system-provided init program.
+* [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,920 | 🐛 217 | 🌐 C | 📅 2026-09-27 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 * [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,158 | 🐛 606 | 🌐 Go | 📅 2026-09-26 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,377 | 🐛 162 | 🌐 Python | 📅 2026-09-27 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,161 | 🐛 611 | 🌐 Go | 📅 2026-09-26 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,378 | 🐛 160 | 🌐 Python | 📅 2026-09-28 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,264 | 🐛 90 | 🌐 Rust | 📅 2026-09-15 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -355,7 +355,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Related awesome lists
 
-* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 520 | 🐛 1 | 📅 2026-09-08
+* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 519 | 🐛 1 | 📅 2026-09-08
 * [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
 * [awesome-yocto-project](https://github.com/fkromer/awesome-yocto-project) ⚠️ Archived
 * [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai) ⭐ 56 | 🐛 1 | 📅 2019-11-14
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
