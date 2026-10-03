@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T20:00:13Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "go-debos",
             "repo": "debos",
             "stars": 732,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "mkroot",
-          "description": ".",
+          "description": "landley/mkroot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "OpenBricks",
-          "description": ".",
+          "description": "OpenBricks/openbricks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "OpenBricks",
             "repo": "openbricks",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -126,11 +126,11 @@
             "id": 36960321,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:21:40Z",
-            "open_issues": 344,
+            "last_commit": "2026-10-03T00:46:25Z",
+            "open_issues": 341,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13469,
+            "stars": 13470,
             "topics": [
               "containers",
               "docker",
@@ -379,7 +379,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1970,
+            "stars": 1971,
             "topics": [
               "hypervisor",
               "linux",
@@ -406,11 +406,11 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T10:52:25Z",
-            "open_issues": 3530,
+            "last_commit": "2026-10-03T03:53:55Z",
+            "open_issues": 3526,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16769,
+            "stars": 16771,
             "topics": [
               "c",
               "init",
@@ -464,10 +464,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-28T15:24:03Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1927,
+            "stars": 1929,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -522,7 +522,7 @@
             "open_issues": 159,
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9380,
+            "stars": 9379,
             "topics": [
               "cicd",
               "developer-workstations",
@@ -629,7 +629,7 @@
         {
           "node_type": "item",
           "title": "awesome-edge-computing",
-          "description": null,
+          "description": "qijianpeng/awesome-edge-computing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -661,7 +661,7 @@
         {
           "node_type": "item",
           "title": "awesome-edge-machine-learning",
-          "description": null,
+          "description": "Bisonai/awesome-edge-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,7 +695,7 @@
         {
           "node_type": "item",
           "title": "awesome-yocto-project",
-          "description": null,
+          "description": "fkromer/awesome-yocto-project",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -721,7 +721,7 @@
         {
           "node_type": "item",
           "title": "awesome-edge-ai",
-          "description": null,
+          "description": "rcmalli/awesome-edge-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -748,7 +748,7 @@
         {
           "node_type": "item",
           "title": "awesome-ubuntu-core",
-          "description": null,
+          "description": "fkromer/awesome-ubuntu-core",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:08:57.051Z",
+    "last_updated": "2026-10-03T04:41:39.276Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome Embedded Linux resources.",
