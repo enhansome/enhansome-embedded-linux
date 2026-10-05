@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "OpenBricks",
             "repo": "openbricks",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -127,10 +127,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T10:48:40Z",
-            "open_issues": 340,
+            "open_issues": 344,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13471,
+            "stars": 13472,
             "topics": [
               "containers",
               "docker",
@@ -190,7 +190,7 @@
             "open_issues": 101,
             "owner": "Azure",
             "repo": "iotedge",
-            "stars": 1509,
+            "stars": 1508,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -291,7 +291,7 @@
                 "id": 124905930,
                 "language": "Scheme",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:35:55Z",
+                "last_commit": "2026-10-05T08:55:50Z",
                 "open_issues": 495,
                 "owner": "scality",
                 "repo": "metalk8s",
@@ -406,11 +406,11 @@
             "id": 32873313,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-04T10:52:45Z",
-            "open_issues": 3533,
+            "last_commit": "2026-10-05T12:08:08Z",
+            "open_issues": 3536,
             "owner": "systemd",
             "repo": "systemd",
-            "stars": 16779,
+            "stars": 16782,
             "topics": [
               "c",
               "init",
@@ -467,7 +467,7 @@
             "open_issues": 219,
             "owner": "OpenRC",
             "repo": "openrc",
-            "stars": 1930,
+            "stars": 1932,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:08.316Z"
@@ -494,7 +494,7 @@
             "open_issues": 629,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32169,
+            "stars": 32175,
             "topics": [
               "cluster",
               "cncf",
@@ -518,11 +518,11 @@
             "id": 132732601,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T10:12:01Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-05T10:16:55Z",
+            "open_issues": 156,
             "owner": "canonical",
             "repo": "microk8s",
-            "stars": 9381,
+            "stars": 9380,
             "topics": [
               "cicd",
               "developer-workstations",
@@ -578,7 +578,7 @@
             "open_issues": 2,
             "owner": "troglobit",
             "repo": "watchdogd",
-            "stars": 218,
+            "stars": 217,
             "topics": [
               "c",
               "daemon",
@@ -638,8 +638,8 @@
             "id": 220168321,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-08T14:33:14Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-04T13:27:21Z",
+            "open_issues": 1,
             "owner": "qijianpeng",
             "repo": "awesome-edge-computing",
             "stars": 521,
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:08:24.935Z",
+    "last_updated": "2026-10-05T12:19:50.594Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome Embedded Linux resources.",
