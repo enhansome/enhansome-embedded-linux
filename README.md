@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,480 | 🐛 219 | 🌐 Go | 📅 2026-10-08 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,484 | 🐛 210 | 🌐 Go | 📅 2026-10-08 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -83,7 +83,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Cloud Provider Integration
 
-* [Azure IoT Edge](https://github.com/Azure/iotedge) ⭐ 1,508 | 🐛 101 | 🌐 C# | 📅 2026-09-29 - IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.
+* [Azure IoT Edge](https://github.com/Azure/iotedge) ⭐ 1,508 | 🐛 101 | 🌐 C# | 📅 2026-10-09 - IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.
 * [AWS Edge](https://aws.amazon.com/edge/)
   * [IoT Core](https://aws.amazon.com/iot-core/) - Easily and securely connect devices to the cloud. Reliably scale to billions of devices and trillions of messages.
   * [IoT Device Management](https://aws.amazon.com/iot-device-management) - Register, organize, monitor, and remotely manage connected devices at scale.
@@ -164,7 +164,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Hypervisors
 
-* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,970 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
+* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,971 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
 * [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
 * [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
@@ -178,8 +178,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,803 | 🐛 3,545 | 🌐 C | 📅 2026-10-09 - The systemd System and Service Manager.
-* [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,310 | 🐛 33 | 🌐 Python | 📅 2026-09-28 - A minimal init system for Linux containers.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,809 | 🐛 3,553 | 🌐 C | 📅 2026-10-10 - The systemd System and Service Manager.
+* [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,308 | 🐛 33 | 🌐 Python | 📅 2026-09-28 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,933 | 🐛 220 | 🌐 C | 📅 2026-10-07 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 * [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
@@ -205,9 +205,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,185 | 🐛 637 | 🌐 Go | 📅 2026-09-28 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,381 | 🐛 156 | 🌐 Python | 📅 2026-10-06 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
-* [Akri](https://github.com/deislabs/akri) ⭐ 1,264 | 🐛 91 | 🌐 Rust | 📅 2026-09-15 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,188 | 🐛 641 | 🌐 Go | 📅 2026-09-28 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,382 | 🐛 157 | 🌐 Python | 📅 2026-10-10 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [Akri](https://github.com/deislabs/akri) ⭐ 1,264 | 🐛 92 | 🌐 Rust | 📅 2026-09-15 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
 ## Kubernetes Edge Computing Platforms
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
