@@ -178,7 +178,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,809 | 🐛 3,553 | 🌐 C | 📅 2026-10-10 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,816 | 🐛 3,548 | 🌐 C | 📅 2026-10-11 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,308 | 🐛 33 | 🌐 Python | 📅 2026-09-28 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,933 | 🐛 220 | 🌐 C | 📅 2026-10-07 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,188 | 🐛 641 | 🌐 Go | 📅 2026-09-28 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,382 | 🐛 157 | 🌐 Python | 📅 2026-10-10 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,188 | 🐛 637 | 🌐 Go | 📅 2026-10-11 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,383 | 🐛 158 | 🌐 Python | 📅 2026-10-11 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,264 | 🐛 92 | 🌐 Rust | 📅 2026-09-15 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -229,7 +229,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Process control systems
 
-* [watchdogd](https://github.com/troglobit/watchdogd) ⭐ 218 | 🐛 2 | 🌐 C | 📅 2026-02-13 - Advanced System & Process Supervisor for (embedded) Linux.
+* [watchdogd](https://github.com/troglobit/watchdogd) ⭐ 218 | 🐛 3 | 🌐 C | 📅 2026-02-13 - Advanced System & Process Supervisor for (embedded) Linux.
 * [daemontools](http://cr.yp.to/daemontools.html) - Collection of tools for managing services.
 * [M/Monit](https://mmonit.com/) - Can monitor and manage distributed computer systems (including their processes), conduct automatic maintenance and repair and execute meaningful causal actions in error situations.
 * [s6](https://skarnet.org/software/s6/) - Suite of programs to allow process supervision (a.k.a service supervision).
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
