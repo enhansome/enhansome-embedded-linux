@@ -46,7 +46,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Build systems
 
-* [Debos](https://github.com/go-debos/debos) ⭐ 736 | 🐛 130 | 🌐 Go | 📅 2026-10-31 - Debian OS builder.
+* [Debos](https://github.com/go-debos/debos) ⭐ 736 | 🐛 129 | 🌐 Go | 📅 2026-11-01 - Debian OS builder.
 * [mkroot](https://github.com/landley/mkroot) ⭐ 453 | 🐛 6 | 📅 2024-11-19.
 * [Isar](https://github.com/ilbers/isar) ⭐ 255 | 🐛 36 | 🌐 Python | 📅 2026-10-30 - Integration System for Automated Root filesystem generation (Debian).
 * [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) ⚠️ Archived - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,518 | 🐛 204 | 🌐 Go | 📅 2026-10-31 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,519 | 🐛 202 | 🌐 Go | 📅 2026-11-01 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -164,7 +164,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Hypervisors
 
-* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,975 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
+* [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,977 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Linux-based partitioning hypervisor.
 * [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
 * [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
 * [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
@@ -178,7 +178,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 16,963 | 🐛 3,419 | 🌐 C | 📅 2026-10-31 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 16,973 | 🐛 3,403 | 🌐 C | 📅 2026-11-01 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,314 | 🐛 33 | 🌐 Python | 📅 2026-10-19 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,949 | 🐛 222 | 🌐 C | 📅 2026-10-18 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,220 | 🐛 617 | 🌐 Go | 📅 2026-10-29 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,377 | 🐛 158 | 🌐 Python | 📅 2026-10-31 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,219 | 🐛 606 | 🌐 Go | 📅 2026-10-31 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,378 | 🐛 158 | 🌐 Python | 📅 2026-10-31 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,264 | 🐛 92 | 🌐 Rust | 📅 2026-10-27 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
