@@ -63,7 +63,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Container runtimes
 
-* [runC](https://github.com/opencontainers/runc) ⭐ 13,537 | 🐛 193 | 🌐 Go | 📅 2026-11-05 - CLI tool for spawning and running containers according to the OCI specification.
+* [runC](https://github.com/opencontainers/runc) ⭐ 13,537 | 🐛 192 | 🌐 Go | 📅 2026-11-08 - CLI tool for spawning and running containers according to the OCI specification.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
 * [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
@@ -178,7 +178,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
-* [systemd](https://github.com/systemd/systemd) ⭐ 17,006 | 🐛 3,388 | 🌐 C | 📅 2026-11-07 - The systemd System and Service Manager.
+* [systemd](https://github.com/systemd/systemd) ⭐ 17,008 | 🐛 3,394 | 🌐 C | 📅 2026-11-08 - The systemd System and Service Manager.
 * [dumb-init](https://github.com/Yelp/dumb-init) ⭐ 7,315 | 🐛 33 | 🌐 Python | 📅 2026-11-02 - A minimal init system for Linux containers.
 * [OpenRC](https://github.com/OpenRC/openrc) ⭐ 1,956 | 🐛 223 | 🌐 C | 📅 2026-11-01 - Dependency-based init system that works with the system-provided init program.
 * [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
@@ -205,8 +205,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,228 | 🐛 617 | 🌐 Go | 📅 2026-11-04 - minikube implements a local Kubernetes cluster (Linux).
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,379 | 🐛 158 | 🌐 Python | 📅 2026-11-07 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,228 | 🐛 619 | 🌐 Go | 📅 2026-11-08 - minikube implements a local Kubernetes cluster (Linux).
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,379 | 🐛 159 | 🌐 Python | 📅 2026-11-08 - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 * [Akri](https://github.com/deislabs/akri) ⭐ 1,265 | 🐛 92 | 🌐 Rust | 📅 2026-10-27 - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 * [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
@@ -368,4 +368,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
